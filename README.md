@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  A highly parallel SSH credential auditor and configuration scanner built in Go.
+  name: go-ssh-auditor version: 1.0 type: Repository author: VarshuAi description: >   A highly parallel SSH credential auditor and configuration scanner built in Go. primary_tech: Go
 primary_tech: Go
 ```
 
